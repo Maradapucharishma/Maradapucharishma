@@ -30,7 +30,7 @@ I'm actively learning and working on various projects to enhance my skills.
 <h3>Where to find me</h3>
 - :bulb: [GitHub](https://github.com/Maradapucharishma)
 - :office: [LinkedIn](www.linkedin.com/in/charishma-maradapu)
-- :speaker: [Youtube](https://www.youtube.com/c/thataiguy)
+- :speaker: [Gmail](maradapucharishma@gmail.com)
 
 
 
