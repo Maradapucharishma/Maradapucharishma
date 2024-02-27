@@ -28,9 +28,13 @@ I'm actively learning and working on various projects to enhance my skills.
 
 
 <h3>Where to find me</h3>
+
 - :bulb: [GitHub](https://github.com/Maradapucharishma)
+
 - :office: [LinkedIn](www.linkedin.com/in/charishma-maradapu)
+
 - :speaker: [Gmail](maradapucharishma@gmail.com)
+
 
 
 
